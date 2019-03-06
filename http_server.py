@@ -130,3 +130,4 @@ if __name__ == '__main__':
     server = HttpServer()
     server.start()
     print(f'Server started with port {create_config().get("Settings", "port")}')
+    print('Press ctrl+c to stop the server')
