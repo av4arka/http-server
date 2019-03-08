@@ -1,5 +1,5 @@
 ## Purpose:
-Console http-server, when the server is running accepts connections from clients. Only responds to GET- requests. With each request, in the console displays a numeric response code and URL, works on the client-server principle
+The console HTTP-server receives a request from the client and gives it an HTTP response. Only responds to GET- requests. With each request, in the console displays a numeric response code and URL, works on the client-server principle
 
 ## Get started:
 - Download the .zip file or clone the repository.
